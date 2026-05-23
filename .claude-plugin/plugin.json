@@ -1,7 +1,7 @@
 {
   "name": "specdd",
   "description": "Reusable Claude Code skills for SpecDD development workflows.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "SpecDD",
     "email": "hello@specdd.ai",
